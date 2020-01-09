@@ -1,3 +1,5 @@
+*This lab is part of a series of guides from the [Network Automation and Tooling workshop series](https://github.com/sttrayno/Network-Automation-Tooling)*
+
 # Introduction-to-Source-Control
 
 Source control solutions allow you to remotely store a group of files, keep track of changes including when the changes are made and who made them, and intelligently collaborate and share the files within your team.
